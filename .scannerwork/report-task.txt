@@ -1,6 +1,0 @@
-projectKey=Project6
-serverUrl=https://sq8-budzow.ngrok.io
-serverVersion=8.7.0.41497
-dashboardUrl=https://sq8-budzow.ngrok.io/dashboard?id=Project6
-ceTaskId=AXhvQvIKuuD7VuMYS05h
-ceTaskUrl=https://sq8-budzow.ngrok.io/api/ce/task?id=AXhvQvIKuuD7VuMYS05h
