@@ -1,0 +1,16 @@
+{
+  "ServerUri": "http://l:8000/",
+  "Organization": null,
+  "ProjectKey": "Project6",
+  "ProjectName": "Project6",
+  "Profiles": {
+    "C++": {
+      "ProfileKey": "AXOkSCqvDwI4tEmY6xaI",
+      "ProfileTimestamp": "2021-02-15T19:45:32Z"
+    },
+    "C": {
+      "ProfileKey": "AXOkSC-MDwI4tEmY6xkg",
+      "ProfileTimestamp": "2021-02-15T19:45:33Z"
+    }
+  }
+}
