@@ -2,4 +2,6 @@
 
 #include "pack.h"
 
+#pragma pack( show )
+
 int main() {}
